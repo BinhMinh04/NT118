@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
         llNameContainer.addView(tvName);
 
         TextView tvNameValue = new TextView(this);
-        tvNameValue.setText("John Doe");
+        tvNameValue.setText("Minh Nguyen");
         llNameContainer.addView(tvNameValue);
     }
 
@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
         llAddressContainer.addView(tvAddress);
 
         TextView tvAddressValue = new TextView(this);
-        tvAddressValue.setText("911 Hollywood Blvd");
+        tvAddressValue.setText("Vinhomes Grand Park");
         llAddressContainer.addView(tvAddressValue);
     }
 
